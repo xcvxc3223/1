@@ -1,0 +1,1 @@
+const service_dugz = <T>(args: T): T => { return args; };
