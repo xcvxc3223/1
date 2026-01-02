@@ -1,0 +1,1 @@
+const util_fnb1 = (d: any) => d;
